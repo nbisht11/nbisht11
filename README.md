@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nbisht11
-- 👀 I’m interested in Data Science, Machine Learning
 - 🌱 I’m currently learning Web Development
 
 <!---
